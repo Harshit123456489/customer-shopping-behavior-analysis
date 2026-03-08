@@ -64,7 +64,7 @@ The goal of this project is to demonstrate an end-to-end data analysis workflow,
 ```
 
 ## Dashboard Preview
-
+![image alt](https://github.com/Harshit123456489/customer-shopping-behavior-analysis/blob/main/Screenshot%202026-03-08%20020830.jpg?raw=true)
 
 # Skills Demonstrated
 - Data Cleaning
