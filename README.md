@@ -74,7 +74,8 @@ The goal of this project is to demonstrate an end-to-end data analysis workflow,
 - Business Insight Generation
 - End-to-End Data Analysis Workflow
 
-# Author
-**Harshit Kumar**
-**B.Tech Computer Science Student**
-**Aspiring Data Analyst / Data Scientist**
+## Author
+
+Harshit Kumar  
+B.Tech Computer Science Student  
+Aspiring Data Analyst / Data Scientist
